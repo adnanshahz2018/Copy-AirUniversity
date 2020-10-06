@@ -1,0 +1,18 @@
+
+
+#ticker_container
+{
+    font-family: Arial, "Helvetica Neue" , Helvetica, sans-serif;
+    margin-bottom: 10px;
+    padding: 10px;
+    /* border: 1px solid #343434; */
+    /* -webkit-border-radius: 7px; */
+    -moz-border-radius: 7px;
+    /* border-radius: 7px; */
+    overflow: auto;
+    background:linear-gradient(135deg, #002147 1%,#337ab7 100%);
+    color: white;
+    
+}
+
+ 
